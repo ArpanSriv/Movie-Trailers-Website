@@ -1,4 +1,4 @@
-#Movie Trailers Website
+# Movie Trailers Website
 
 ### _Introduction_
 ##### A web page which displays the poster arts of various upcoming films and their trailers when clicked on them.
