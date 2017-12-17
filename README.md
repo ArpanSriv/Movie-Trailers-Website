@@ -12,4 +12,4 @@
 
 ### _Operating Instructions_
 Navigate to the project directory and run [_entertainment_center.py_](entertainment_center.py) to generate the Web Page. Then open
- [_fresh_tomatoes.html_](fresh_tomatoes.html) to view the page.
+ [_fresh_tomatoes.html_](https://htmlpreview.github.io/?https://github.com/ArpanSriv/Movie-Trailers-Website/blob/master/fresh_tomatoes.html) to view the page.
